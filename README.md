@@ -1,7 +1,7 @@
 huffman-encoding
 ================
 
-A UCBerkeley compression project.
+Program to compress files using huffman encoding.
 
 Implementation of variants of Huffman encoding, a lossless data compression algo-rithm that is used in encoding schemes such as JPEG and MP3 (MPEG-1).
 
